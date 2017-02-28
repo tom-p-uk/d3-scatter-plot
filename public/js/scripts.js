@@ -7,7 +7,7 @@ function renderScatterPlot(data) {
   const margin = { top: 40, right: 20, bottom: 80, left: 80 };
 
   // append svg to DOM
-  const svg = d3.select('body')
+  const svg = d3.select('.svg-container')
     .append('svg')
     .attr('width', width)
     .attr('height', height)
