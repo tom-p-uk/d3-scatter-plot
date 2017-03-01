@@ -22,4 +22,4 @@ A simple D3 project to make a scatter plot that satisfies the user stories outli
 
 ### Heroku Demo:
 
-Go to [this link](https://tom-p-uk-d3-scatter-plot.herokuapp.com/) link to check out a demo of the bar chart.
+Go to [this link](https://tom-p-uk-d3-scatter-plot.herokuapp.com/) link to check out a demo of the scatter plot.
